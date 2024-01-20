@@ -7,7 +7,7 @@ Frontend Web Developer and UI Designer.
 I'm a frontend web developer that enjoys creating web applications. I am quite proficient in JavaScript, Reactjs, Nextjs, Tailwind, and other technologies. I've also worked with the MERN stack, which is one of the most popular out there. In addition, I enjoy designing UI for applications and websites with Figma.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [sohamBhosale.dev](http://portfolio-murex-five-60.vercel.app/)
+* 🖥️  See my portfolio at [sohamBhosale.dev](https://soham-bhosale.vercel.app/)
 * ✉️  You can contact me at [sohambhosle26@gmail.com](mailto:sohambhosle26@gmail.com)
 * 🧠  I'm learning Next.js 13 with Typescript
 * 🤝  I'm open to collaborating on Frontend Projects
